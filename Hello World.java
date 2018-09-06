@@ -1,3 +1,6 @@
-public class Hello World{
-	
+public class HelloWorld{
+	public static void hello(String[] args){
+		
+	}
+
 }
